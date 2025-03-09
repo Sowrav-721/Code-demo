@@ -1,4 +1,4 @@
 # Code-demo
 This is my first Git Repository.
 <br>
-Author  - Sowrav Bhowmik
+Author  - Sowrav (Pritom)
